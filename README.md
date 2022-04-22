@@ -1,2 +1,2 @@
-# Ejercicio-de-visualizaci-n-de-datos
+# Ejercicios de visualización de datos
 Ejercicio de visualización de datos
